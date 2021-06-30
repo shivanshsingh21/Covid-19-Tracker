@@ -13,7 +13,7 @@ Deployed live on https://covid-19-tracker-6b428.web.app/ . Check out!
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App].
 
 ## Available Scripts
 
